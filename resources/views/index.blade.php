@@ -36,7 +36,7 @@
                             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
                             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
                             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
-                            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/login">Portfolio</a></li>
+                            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a></li>
                         </ul>
                     </div>
                 </nav>
@@ -57,7 +57,7 @@
                             <p class="lead mb-5">I am experienced in web and mobile application and leveraging agile frameworks to provide a robust synopsis for high level overviews.</p>
                             <div class="social-icons">
                                 <a class="social-icon" target="_blank" href="https://www.linkedin.com/in/andrew-jonson-696016189/"><i class="fab fa-linkedin-in"></i></a>
-                                <a class="social-icon" target="_blank" href="#"><i class="fab fa-github"></i></a>
+                                <a class="social-icon" target="_blank" href="https://github.com/andrewjonson/portfolio"><i class="fab fa-github"></i></a>
                                 <a class="social-icon" target="_blank" href="https://www.facebook.com/andrew.jonson.58"><i class="fab fa-facebook-f"></i></a>
                             </div>
                         </div>
@@ -208,6 +208,17 @@
                                     <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
                                     Training and Orientation on Integrated Philippine e-Library Online Databases Certification
                                 </li>
+                            </ul>
+                        </div>
+                    </section>
+                    <hr class="m-0" />
+                    <!-- Portfolio -->
+                    <section class="resume-section" id="portfolio">
+                        <div class="resume-section-content">
+                            <h2 class="mb-0">
+                                Blog Web App
+                            </h2>
+                            <p class="lead mb-5">I used laravel framework for the backend and vue.js for the frontend. I also used default laravel bootstrap ui and vuetify material design. Please check my finished portfolio. <a href="/login">Blog Web App</a></p>
                         </div>
                     </section>
                 </div>
